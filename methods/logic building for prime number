@@ -1,0 +1,4 @@
+x%2==0 && x%x==1 =>from the definition -a number which is only divisible by one and itself
+
+
+!(x%2==0 || x%x==1)
