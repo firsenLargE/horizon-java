@@ -22,9 +22,9 @@ public class NumberOfLetters {
 
         int count = 0;
         for (int i = 0; i < start.length(); i++) {
-            if (start.charAt(i) == end) {
-                count++;
-            }
+            
+            
+            
         }
         System.out.println("Total number" + letter +"has been repeated is :"+count);
 
