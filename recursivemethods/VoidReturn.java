@@ -10,7 +10,7 @@ public class VoidReturn {
             System.out.println("Blastoff!");
         } else {
             System.out.println(n);
-            countdown(n - 1);
+            countdown(n - 2);
         }
     }
 }
