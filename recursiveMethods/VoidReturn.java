@@ -2,7 +2,7 @@ package recursivemethods;
 
 public class VoidReturn {
 
-    static void main() {
+    public static void main(String[] args) {
         countdown(12);
     }
     public static void countdown(int n) {
